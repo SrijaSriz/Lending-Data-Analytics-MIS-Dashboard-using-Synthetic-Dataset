@@ -127,3 +127,11 @@ Decision Tree Classifier: Also reached 99.7% accuracy, but with a slightly lower
 
 
 Random Forest Classifier: This model was the strongest, achieving a perfect 100% accuracy and an ROC-AUC score of 1.0. It effectively eliminated misclassifications by combining multiple trees.
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+  POWER BI DASH BOARD (MIS DASHBOARD)
+  The Lending MIS Dashboard enables monitoring of loan portfolio performance, approval efficiency, and risk exposure. With interactive visuals and DAX measures,slicers,RLS,WHAT-IF, it provides actionable insights for lending decision-making. 
